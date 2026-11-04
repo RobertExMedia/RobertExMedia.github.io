@@ -1,0 +1,1 @@
+import{y as o}from"./index-ff7BGOHJ.js";async function a(t){const{data:e,error:r}=await o.from("orders").update({status:"cancelled",fulfillment_status:"cancelled"}).eq("id",t).select("id");if(r)throw new Error(r.message);if(!(e!=null&&e.length))throw new Error("Could not cancel this order")}export{a as c};
