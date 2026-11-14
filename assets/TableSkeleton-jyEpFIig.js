@@ -1,0 +1,1 @@
+import{j as e}from"./vendor-motion-C3zUDWlI.js";import{S as m}from"./skeleton-BoM6xkhB.js";function i({columns:a=5,rows:r=5}){return e.jsx("div",{className:"p-4 space-y-3",children:Array.from({length:r}).map((o,s)=>e.jsx("div",{className:"flex gap-4",children:Array.from({length:a}).map((t,l)=>e.jsx(m,{className:"h-5 flex-1"},l))},s))})}export{i as T};
