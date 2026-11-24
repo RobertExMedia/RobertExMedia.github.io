@@ -1,0 +1,15 @@
+# Zebra Dry Plates
+
+> Handcrafted silver gelatin dry plates, darkroom chemistry, and large-format photography tools made in Slovenia for modern analog photographers.
+
+Zebra Dry Plates revives 19th-century dry plate photography with hand-coated glass plates, processing tanks, film holders, and workshops for photographers who value the craft of the negative.
+
+## Pages
+
+- [Home](/): Brand introduction, featured plates, and the Zebra story.
+- [Shop](/shop): Browse all dry plates, chemistry, holders, and large-format tools.
+- [Learn & Discover](/learn): Tutorials and guides on dry plate, wet plate, collodion, and large-format workflows.
+- [About](/about): The story behind Zebra Dry Plates and our handcrafted process.
+- [Workshops & Booking](/booking): Hands-on dry plate photography workshops in Slovenia.
+- [FAQ](/faq): Common questions about dry plates, ordering, and shipping.
+- [Contact](/contact): Get in touch with the workshop.
